@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="button_size">75</string>
+    <string name="default1">Number 1</string>
+    <string name="default2">Number 2</string>
+    <string name="default3">Result</string>
+</resources>
